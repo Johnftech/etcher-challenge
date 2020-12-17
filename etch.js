@@ -6,6 +6,7 @@ $(() => {
   createAndPlaceRows(8);
 
   // Bind your event listeners here:
+
 });
 
 
